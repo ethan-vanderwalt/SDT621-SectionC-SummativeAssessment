@@ -45,9 +45,8 @@
             lblOutput.AutoSize = true;
             lblOutput.Location = new Point(338, 33);
             lblOutput.Name = "lblOutput";
-            lblOutput.Size = new Size(55, 20);
+            lblOutput.Size = new Size(0, 20);
             lblOutput.TabIndex = 0;
-            lblOutput.Text = "Output";
             // 
             // txtCode
             // 
@@ -78,6 +77,7 @@
             btnAdd.TabIndex = 4;
             btnAdd.Text = "Add";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnDelete
             // 
@@ -87,6 +87,7 @@
             btnDelete.TabIndex = 5;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // btnFind
             // 
@@ -96,6 +97,7 @@
             btnFind.TabIndex = 6;
             btnFind.Text = "Find";
             btnFind.UseVisualStyleBackColor = true;
+            btnFind.Click += btnFind_Click;
             // 
             // lblCode
             // 

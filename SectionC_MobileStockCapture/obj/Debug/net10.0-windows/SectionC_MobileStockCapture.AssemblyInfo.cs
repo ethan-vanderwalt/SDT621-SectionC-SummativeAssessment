@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SectionC_MobileStockCapture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c02e8eb629132c03fafd3a51a95ce4cca219c0fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SectionC_MobileStockCapture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SectionC_MobileStockCapture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
